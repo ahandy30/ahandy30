@@ -3,6 +3,7 @@
 <h2>👩🏽‍💻 IT & Cybersecurity Projects:</h2>
 
   - [Creating users in an Active Directoy home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Finding and remediating vulnerabilities in a Vulnerability Management home lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📃 Certifications:</h2>
 
