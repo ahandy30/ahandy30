@@ -1,9 +1,24 @@
-- 👋 Hi, I’m Ashley! 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning learning JavaScript
-- 💞️ I’m looking to collaborate on various Python and JavaScript projects
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: My mom surprised me with a 2 week cruise to Italy and France on my 14th birthday!
+<h1>Hi, I'm Ashley!</h1>
+
+<h2>👩🏽‍💻 IT & Cybersecurity Projects:</h2>
+
+  - [Creating users in an Active Directoy home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>📃 Certifications:</h2>
+
+  - [Google Cybersecurity Professional](https://coursera.org/share/96c7a14529ba747cfd459b9a6b08795e)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Cybersecurity Awareness](https://www.youtube.com/watch?v=ziBPeDfyAHQ)
+
+<h2> 📱 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/c/joshmadakor
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!---
 ahandy30/ahandy30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
