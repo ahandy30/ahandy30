@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 IT & Cybersecurity Projects:</h2>
 
-  - [Creating users in an Active Directoy home lab](https://github.com/ahandy30/ActiveDirectoryRepository)
+  - [Creating users in an Active Directory home lab](https://github.com/ahandy30/ActiveDirectoryRepository)
   - [Finding and remediating vulnerabilities in a Vulnerability Management home lab](https://github.com/ahandy30/VulnerabilityManagement)
 
 <h2>📃 Certifications:</h2>
