@@ -4,6 +4,7 @@
 
   - [Creating users in an Active Directory home lab](https://github.com/ahandy30/ActiveDirectoryRepository)
   - [Finding and remediating vulnerabilities in a Vulnerability Management home lab](https://github.com/ahandy30/VulnerabilityManagement)
+  - [Sample Information Security Policy.docx] (https://github.com/ahandy30/InformationSecurityPolicy-/files/15436352/Sample.Information.Security.Policy.docx)
 
 <h2>📃 Certifications:</h2>
 
