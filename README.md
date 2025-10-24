@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ashley!</h1>
 
-<h2>🧪 Quality Assurance Porjects:</h2>
+<h2>🧪 Quality Assurance Projects:</h2>
 
   - [Mortgage Calculator](https://github.com/ahandy30/mortgage-calculator-tests/tree/mortcalc#)
 
