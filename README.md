@@ -1,8 +1,9 @@
-<h1>Hi, I'm Ashley!</h1>
+<h1>My Projects</h1>
 
 <h2>🧪 Quality Assurance Projects:</h2>
 
   - [Mortgage Calculator](https://github.com/ahandy30/mortgage-calculator-tests/tree/mortcalc#)
+  - [Bank Testing](https://github.com/ahandy30/bank-testing)
 
 <h2>👩🏽‍💻 IT & Cybersecurity Projects:</h2>
 
